@@ -11,5 +11,7 @@ The data is assembled from a variety sources and a database is consturcted to ma
 * ...
 
 ## Example results
-Stockholm[]
+![Stockholm_source](Fig2a_all_data.png)
+![Stockholm_clustering](Clustering0.png)
+![Stockholm_load](Stockholm_load.png)
 
